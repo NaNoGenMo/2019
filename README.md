@@ -47,7 +47,7 @@ There are already a ton of resources on the old resources threads from
 [2013](https://github.com/dariusk/NaNoGenMo/issues/11), 
 [2014](https://github.com/dariusk/nanogenmo-2014/issues/1), 
 [2015](https://github.com/dariusk/NaNoGenMo-2015/issues/1), 
-[2016](https://github.com/dariusk/NaNoGenMo-2016/issues/1), 
+[2016](https://github.com/NaNoGenMo/2016/issues/1), 
 [2017](https://github.com/NaNoGenMo/2017/issues/1)
 and [2018](https://github.com/NaNoGenMo/2018/issues/1).
 
