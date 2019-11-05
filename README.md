@@ -1,6 +1,16 @@
 # NaNoGenMo 2019
 
-National Novel Generation Month - based on [an idea Darius tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168), where people are challenged to write code that writes a novel.
+My entries for this year's NaNoGenMo: https://github.com/NaNoGenMo/2019/issues/34.
+
+- TODO
+
+Original blurb below, and see also https://github.com/NaNoGenMo/2019.
+
+---
+
+National Novel Generation Month - based on
+[an idea Darius tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168),
+where people are challenged to write code that writes a novel.
 
 This is the 2019 edition. For previous years see:
 
