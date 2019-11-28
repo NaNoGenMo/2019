@@ -128,4 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+citifier/output.tex
 citifier/PG2003-08/etext*
