@@ -2,6 +2,9 @@
 
 National Novel Generation Month - based on [an idea Darius tweeted on a whim](https://twitter.com/tinysubversions/status/396305662000775168), where people are challenged to write code that writes a novel.
 
+<p align="center"><a href="https://twitter.com/tinysubversions/status/396305662000775168"><img src="https://nanogenmo.github.io/tweet.png" width="600" height="338" alt="Hey, who wants to join me in NaNoGenMo: spend the month writing code that generates a 50k word novel, share the novel & the code at the end"></a></p>
+
+
 This is the 2019 edition. For previous years see:
 
 * [2018](https://github.com/NaNoGenMo/2018)
