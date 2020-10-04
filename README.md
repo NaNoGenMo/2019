@@ -1,3 +1,5 @@
+# _This is for the 2019 NaNoGenMo. [See here](https://github.com/NaNoGenMo/2020) for the 2020 repo!_
+
 # NaNoGenMo 2019
 
 [![entries: completed][~completed]](https://github.com/NaNoGenMo/2019/issues?q=label%3Acompleted)
